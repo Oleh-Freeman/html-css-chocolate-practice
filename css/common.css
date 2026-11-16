@@ -1,0 +1,42 @@
+/* global styles */
+body {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 14px;
+  letter-spacing: -0.02em;
+  line-height: 1, 29;
+  color: #111;
+  background-color: #fafafa;
+}
+ol,
+ul {
+  list-style-type: none;
+}
+a {
+  text-decoration: none;
+  color: inherit;
+}
+button {
+  cursor: pointer;
+}
+address {
+  font-style: normal;
+}
+/* base styles  */
+.logo {
+  font:
+    700 18px / 1.11 'Montserrat',
+    sans-serif;
+  letter-spacing: -0.03em;
+  text-transform: uppercase;
+}
+.logo-icon {
+}
+/* social styles */
+.social {
+}
+.social-item {
+}
+.social-link {
+}
+.social-icon {
+}

@@ -1,0 +1,18 @@
+.header {
+}
+
+.main-nav {
+  font:
+    500 'Montserrat',
+    sans-serif;
+  letter-spacing: -0.02em;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+.main-nav-list {
+}
+.main-nav-item {
+}
+.main-nav-link {
+}
