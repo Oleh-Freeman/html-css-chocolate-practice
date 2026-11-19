@@ -3,7 +3,7 @@ body {
   font-family: 'Montserrat', sans-serif;
   font-size: 14px;
   letter-spacing: -0.02em;
-  line-height: 1, 29;
+  line-height: 1.29;
   color: #111;
   background-color: #fafafa;
 }
@@ -20,6 +20,20 @@ button {
 }
 address {
   font-style: normal;
+}
+/* section styles */
+.section {
+}
+.section-title {
+  font-weight: 600;
+  font-size: 24px;
+  line-height: 1.17;
+  letter-spacing: -0.03em;
+  text-align: center;
+  text-transform: uppercase;
+}
+.accent {
+  color: #fd9222;
 }
 /* base styles  */
 .logo {
@@ -39,4 +53,42 @@ address {
 .social-link {
 }
 .social-icon {
+}
+/* buttons styles */
+
+.btn {
+  font-weight: 600;
+  background-color: transparent;
+  border: none;
+}
+.btn-filled {
+  color: #fff;
+  background: #fd9222;
+}
+.btn-filled:hover,
+.btn-filled:focus {
+  color: #fd9222;
+  background: rgba(253, 146, 34, 0.1);
+}
+.btn-outlined {
+  color: #fff;
+}
+.btn-outlined:hover,
+.btn-outlined:focus {
+  color: #fd9222;
+}
+.primary {
+  color: #fff;
+}
+.primary:hover,
+.primary:focus {
+  color: #fd9222;
+}
+.secondary {
+  color: #111;
+}
+.secondary:hover,
+.secondary:focus {
+  color: #fff;
+  background: #fd9222;
 }
