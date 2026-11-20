@@ -7,11 +7,10 @@
 }
 .ingredients-item {
 }
-.ingredients-icon {
+.ingredients-ill {
 }
-.ingredients-subtitle {
+.ingredients-caption {
   font-size: inherit;
   font-weight: 600;
-  color: #fff;
   text-transform: uppercase;
 }

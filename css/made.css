@@ -1,10 +1,13 @@
-.section-title {
+.made {
 }
 .made-title {
 }
-.made-icon {
+.made-ill {
 }
-.made-subtitle {
+.made-caption {
+  font-weight: 600;
+  font-size: 18px;
+  line-height: 1.33;
 }
 .made-list {
 }
