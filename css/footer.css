@@ -1,13 +1,35 @@
-.main-nav {
+.footer {
+  background-color: #1e1823;
+  color: #fff;
 }
-.main-nav-list {
-}
-.main-nav-item {
-}
-.main-nav-link {
+.footer-slogan {
   font-weight: 500;
+  font-size: 28px;
+  line-height: 1.21;
+  letter-spacing: -0.03em;
 }
-.main-nav-link:hover,
-.main-nav-link:focus {
+.footer-caption {
+  font-weight: 600;
+}
+.contacts {
+}
+.contacts-list {
+}
+.contacts-item {
+}
+.contacts-link {
+}
+.contacts-link:hover,
+.contacts-link:focus {
+  color: #fd9222;
+}
+.footer-menu {
+}
+.footer-menu-item {
+}
+.footer-menu-link {
+}
+.footer-menu-link:hover,
+.footer-menu-link:focus {
   color: #fd9222;
 }
